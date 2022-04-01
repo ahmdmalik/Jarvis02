@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: white;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+
+#navigasi{
+    margin-left: 750px;
+}
+
+section#blog{
+    background-color: white;
+    width: 900px;
+    margin: auto;
+    padding: 10px;
+    padding-top: 50px;
+}
+
+section#blog article-list{
+    display: flex;
+    padding-top: 40px;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+body{
+    background-color: gray;
+    background-image: url(public/img/bg1.png);
+}
